@@ -25,5 +25,5 @@ int main(){
         
         
         
-        //logic like agar mai leta 8/5 then aayega 1 and (1+1)*2==10 which is next multiple of 5. 
+        //logic like agar mai leta 8%5 then aayega 1 and (1+1)*2==10 which is next multiple of 5. 
 }
